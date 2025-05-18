@@ -38,4 +38,3 @@
 38,0.1832,0.0661,1
 39,0.5015,0.9812,-1
 40,0.5024,0.5274,-1
-a modificação ou gerar outros arquivos, é só me dizer!
